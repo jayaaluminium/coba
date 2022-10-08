@@ -5,7 +5,7 @@
   "main": "zeeone.js",
   "license": "MIT",
   "engines": {
-    "node": "18.7"
+    "node": "16.17.1"
    },
   "keywords": [
     "whatsapp",
